@@ -1,2 +1,2 @@
 # dimidium
-An open-source REST API for enterprise resource planning systems
+A open-source REST API for enterprise resource planning systems
